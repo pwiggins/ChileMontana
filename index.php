@@ -3,7 +3,7 @@
   
 <head>
    <link rel="icon" href="favicon.png">
-   <title>Mucho Gracias from Chile Monta&#241;a</title>
+   <title>Chili Monta&#241;a</title>
    <meta charset="utf-8">
    <link href="chili.css" rel="stylesheet">
 </head>
@@ -27,32 +27,25 @@
    </div>
     <div id="page">
       <div id="content">
-
-         <div class="post">
-            
-           <h1 class="title">Muchos Gracias! </h1>
-            <div class="entry"><p><strong>We will have your response as soon as possible!</strong></p>
-         </div>
-            <div style="padding-bottom: 20px;"><img src="gracias.jpg" alt="Gracias" ></div>
+         <div style="padding-bottom: 20px;"><img src="chilibowl.jpg" alt="Bowl Of Chili" ></div>
       </div>
     </div>
     <div id="sidebar1" class="sidebar">
       <div class="post">
-           <h1 class="title">We Appreciate Your Business!</h1>
-           <p class="byline"><small>Website created in 2013 by <a href="mailtokingofmyways@aol.com">kingofmyways</a></small></p>
-          
+           <h1 class="title">We Love To Cook With Chili and Chile Peppers!</h1>
+           
+           <p>Chile Monta&#241;a has been providing the people who love to eat great food for many years.  Owner Paul Wiggins recently said "Everything is better covered in chili and any other toppings you can think of".  This idea grew from a small taco stand to a company with many stores nationwide. Openning up many franchises has inspired Paul to incorperate a bigger selection of items, which we will be adding soon.  If you are a fan of Tex/Mex style food, or just love chili, come on down to Chile Monta&#241;a!</p>
          </div>
-      <ul>
 
-      </ul>
     </div>
     
     <div style="clear: both;">&nbsp;</div>
-  </div>
+
 <div id="footer">
   <div id="footer-content">
-    <p>&copy;2013 All Rights Reserved. &nbsp;&nbsp; Designed by <a href="mailto:kingofmyways.aol">KINGOFMYWAYS</a>.</p>
+    <p>&copy;2012 All Rights Reserved. &nbsp;&nbsp; Designed by <a href="mailto:kingofmyways.aol.com">KINGOFMYWAYS</a>.</p>
   </div>
 </div>
 </body>
 </html>
+
