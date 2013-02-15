@@ -27,7 +27,7 @@
    </div>
     <div id="page">
       <div id="content">
-         <div style="padding-bottom: 20px;"><img src="chilibowl.jpg" alt="Bowl Of Chili" ></div>
+         <div style="padding-bottom: 20px;"><img src="chilibowl.JPG" alt="Bowl Of Chili" ></div>
       </div>
     </div>
     <div id="sidebar1" class="sidebar">
